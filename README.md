@@ -7,10 +7,16 @@ Not only was this project a great way to exercise my skills, but it also provide
 Here are the steps I followed to complete the project:
 
 1- I gathered data from an external source in Excel format.
+
+
 2- Using Microsoft Excel, I cleaned and explored the data to get a better understanding of its structure and contents.
+
 3- I then used the Power Query tool to prepare the data for analysis, including transforming and shaping the data as needed.
+
 4- To enhance the visual appeal of the data, I added relevant images to make it more engaging and easier to understand.
+
 5- Using DAX, I created relevant measures to help analyze and interpret the data effectively.
+
 6- Finally, I developed an interactive BI dashboard/report that provides a comprehensive view of the data and allows users to explore it in a dynamic and user-friendly way.
 
 # Dashboards
